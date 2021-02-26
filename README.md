@@ -1,6 +1,7 @@
 # Claims-Approval-Time-prediction-using-Machine-Learning
 
-Objective There are certain benefits of using machine learning approach in claim prediction problem:
+**Objectives:**
+There are certain benefits of using machine learning approach in claim prediction problem:
 
 • The algorithms can discover patterns from data that is not used in traditional approaches.
 
